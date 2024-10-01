@@ -24,4 +24,4 @@ Each hotel card displays relevant details, including images, location, price, an
 Users can specify the number of adults and children when adding a hotel to the cart.
 Finally, users can navigate to the cart to review their selections before proceeding.
 
-versel Link :- 
+versel Link :- https://airbnb-frontned.vercel.app/
